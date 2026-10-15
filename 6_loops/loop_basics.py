@@ -1,0 +1,8 @@
+# while loop and for loop
+# print the name 100 times
+
+num = 1
+while num <= 100:
+    print("Akhilesh Kumar")
+    num = num + 1
+print("Now we are out of the while loop")
